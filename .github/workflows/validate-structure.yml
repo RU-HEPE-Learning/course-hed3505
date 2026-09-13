@@ -1,0 +1,38 @@
+name: Validate learning structure
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Required course files
+        run: |
+          set -e
+          test -f README.md
+          test -f COURSE-STATUS.md
+          test -f GOVERNANCE.md
+          test -f AI-USE.md
+          for w in 01 02 03 04 05; do
+            base="weeks/week-$w"
+            for f in README.md learning-objectives.md lecture-note.md student-handout.md activity.md worksheet.md evidence-pack.md reflection-prompt.md assessment-note.md instructor-note.md; do
+              test -f "$base/$f" || { echo "Missing $base/$f"; exit 1; }
+            done
+          done
+          for a in 01 02 03 04 05; do
+            base="assignments/assignment-$a"
+            for f in README.md TASK.md SUBMISSION.md EVIDENCE-REQUIREMENTS.md REFLECTION.md RUBRIC-LINK.md; do
+              test -f "$base/$f" || { echo "Missing $base/$f"; exit 1; }
+            done
+          done
+      - name: Basic sensitive-file warning
+        run: |
+          if find . -type f | grep -Ei '(national.?id|passport|phone.?list|health.?record|student.?roster)' ; then
+            echo 'PASS WITH WARNING: review potentially sensitive filenames.'
+          else
+            echo 'PASS: no obvious sensitive filenames detected.'
+          fi
