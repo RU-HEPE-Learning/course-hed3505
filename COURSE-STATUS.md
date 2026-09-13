@@ -2,13 +2,32 @@
 
 Status: **PILOT**
 
-Phase: RU-HEPE-CLASSROOM-03 PREPARATION
+Phase: **RU-HEPE-CLASSROOM-03A — HUMAN AUTHORITY BINDING & CONTROLLED PILOT AUTHORIZATION**
 
 Phase 02 verdict: **FULL PASS**
+Phase 03A verdict: **PASS WITH LIVE-ACTIVATION HOLD**
 
-Current scope: controlled preparation for a real-student pilot after successful synthetic end-to-end validation.
+Current scope: controlled preparation for a small real-student pilot after successful synthetic end-to-end validation.
 
-Not yet authorized: live student roster binding, official grading, official CLO/PLO mapping, official deadlines, or storage of real student personal data in public repositories.
+## Locked Phase 03A configuration
+- Pilot size: **SMALL PILOT (3–5 students)**
+- Student assignment repositories: **PRIVATE**
+- Student portfolio repositories: **PRIVATE**
+- Official grades: **KEEP OUTSIDE GITHUB during the initial pilot**
+- CLO/PLO mapping: **PENDING AUTHORITATIVE EVIDENCE**
+- Deadlines: **PENDING OFFICIAL SCHEDULE**
+- Roster source: **OFFICIAL COURSE ROSTER REQUIRED**
+
+## Authorization state
+- Pilot preparation package: PASS
+- Human authority configuration: CONFIRMED
+- Privacy model: LOCKED
+- Repository naming plan: PREPARED
+- Student onboarding package: PREPARED
+- Real-student roster binding: HOLD
+- Real-student repository creation: HOLD
+- Student invitations: HOLD
+- Live pilot activation: HOLD
 
 ## Phase 02 gate tracking
 - G1 Repository structure: PASS
@@ -22,14 +41,7 @@ Not yet authorized: live student roster binding, official grading, official CLO/
 - G9 Course-hub integration: PASS
 - G10 End-to-end dry run: PASS
 
-## Phase 03 preparation
-- Pilot preparation package: PREPARED
-- Roster binding template: PREPARED / NO REAL DATA
-- Privacy decision record: PREPARED
-- Pilot acceptance checklist: PREPARED
-- Live pilot activation: HOLD — HUMAN AUTHORITY REQUIRED
+## Human-authority hold point
+The next release gate requires confirmation of the authoritative real-student roster source and explicit authorization to bind real students. Until that gate passes, no real-student repositories may be created and no invitations may be sent.
 
-## Human-authority hold points
-Before live pilot activation, course authority must confirm the authoritative roster source and handling method, privacy arrangements, pilot size, official deadlines and assessment weights (or explicitly keep them outside GitHub), and CLO/PLO mapping where applicable from authoritative curriculum evidence.
-
-Next recommended action: RU-HEPE-CLASSROOM-03A — Human Authority Binding & Controlled Pilot Authorization.
+Next recommended action: **RU-HEPE-CLASSROOM-03B — Authoritative Roster Intake, Identity Binding & Controlled Real-Student Pilot Activation Preparation.**
