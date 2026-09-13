@@ -2,13 +2,14 @@
 
 Status: **PILOT**
 
-Phase: **RU-HEPE-CLASSROOM-03B.2R — ROSTER-DEFERRED PILOT IDENTITY MODEL**
+Phase: **RU-HEPE-CLASSROOM-03C-RD — ROSTER-DEFERRED PRIVATE PILOT PROVISIONING PREPARATION**
 
 Phase 02 verdict: **FULL PASS**
 Phase 03A verdict: **PASS WITH LIVE-ACTIVATION HOLD**
 Phase 03B verdict: **PREPARED**
 Phase 03B.1 status: **SUPERSEDED FOR RU CONTEXT**
-Phase 03B.2R verdict: **APPROVED OPERATING MODEL / READY FOR CONTROLLED NEXT PHASE**
+Phase 03B.2R verdict: **APPROVED OPERATING MODEL**
+Phase 03C-RD status: **PREPARATION COMPLETE / WAITING FOR VERIFIED PILOT GITHUB IDENTITIES**
 
 Current scope: controlled preparation for a small real-student pilot using a participation-first, identity-verified, roster-deferred model appropriate to Ramkhamhaeng University teaching operations.
 
@@ -16,8 +17,8 @@ Current scope: controlled preparation for a small real-student pilot using a par
 The official student/examination roster is not available to the instructor until the final-examination period. Early official-roster availability is therefore not required for controlled pilot preparation. Official enrollment remains deferred until later authoritative reconciliation.
 
 ## Locked configuration
-- Pilot size: **SMALL PILOT (3–5 students)**
-- Recommended initial cohort: **3 students**
+- Initial pilot cohort: **3 students**
+- Expansion ceiling: **5 students**
 - Student assignment repositories: **PRIVATE**
 - Student portfolio repositories: **PRIVATE**
 - Official grades: **KEEP OUTSIDE GITHUB during the initial pilot**
@@ -25,26 +26,32 @@ The official student/examination roster is not available to the instructor until
 - Deadlines: **PENDING OFFICIAL SCHEDULE**
 - Official enrollment at pilot start: **DEFERRED_ROSTER_VERIFICATION**
 
-## Roster-deferred release rule
-A participant may become `READY_FOR_ACCESS` when all are true:
+## Participant-level release rule
+A participant may become `READY_FOR_ACCESS` only when all are true:
 - Participation = `INSTRUCTOR_CONFIRMED`
+- Pilot participation = `VOLUNTARY`
 - GitHub Identity = `VERIFIED`
 - Privacy acknowledgement = `ACKNOWLEDGED`
-- Pilot participation = voluntary
-- Official Enrollment = `DEFERRED_ROSTER_VERIFICATION` is allowed
+- Official Enrollment = `DEFERRED_ROSTER_VERIFICATION`
 
-## Current control status
-- Roster-deferred governance model: LOCKED
-- Public-safe anonymous readiness matrix: PREPARED
-- Deferred roster reconciliation procedure: PREPARED
-- Real participant identities: NOT YET RECORDED IN PUBLIC REPOSITORY
-- GitHub usernames: NOT YET VERIFIED
-- Private repository provisioning: HOLD UNTIL PARTICIPANT-LEVEL READINESS
-- Student invitations: HOLD UNTIL PARTICIPANT-LEVEL READINESS
-- Live pilot activation: NOT YET ACTIVE
+## Phase 03C-RD preparation status
+- Provisioning preparation control: COMPLETE
+- Initial anonymous pilot IDs `PILOT-01` to `PILOT-03`: ALLOCATED
+- Public-safe readiness matrix: PREPARED
+- Privacy & participation acknowledgement template: PREPARED
+- Sample submission acceptance gate: PREPARED
+- Private repository provisioning model: PREPARED
+- Real participant identities: NOT STORED IN PUBLIC REPOSITORY
+- Verified GitHub usernames: NOT YET PROVIDED
+- Real-student repository creation: HOLD
+- Student collaborator invitations: HOLD
+- Live pilot activation: HOLD
 
 ## Privacy boundary
 Real names, student IDs, personal email/phone information, grades, health information, and private identity mappings must not be committed to this public repository. Public control records may contain only anonymous internal pilot IDs and workflow states.
 
+## Current release gate
+The next transition requires 3 participant-level GitHub usernames that have been supplied directly by the participating students and verified by the instructor, together with voluntary participation and privacy acknowledgement. Official roster evidence is not required at this stage.
+
 ## Next recommended action
-**RU-HEPE-CLASSROOM-03C-RD — Roster-Deferred Private Pilot Provisioning Preparation, Voluntary Student Onboarding, GitHub Identity Verification, Sample Submission & Controlled Pilot Launch Gate.**
+**RU-HEPE-CLASSROOM-03C-RD.1 — Verified Pilot Identity Intake, Private Repository Provisioning Readiness & Controlled Invitation Release.**
