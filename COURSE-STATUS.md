@@ -2,15 +2,15 @@
 
 Status: **PILOT**
 
-Phase: RU-HEPE-CLASSROOM-02
+Phase: RU-HEPE-CLASSROOM-03 PREPARATION
 
 Phase 02 verdict: **FULL PASS**
 
-Current scope: controlled academic build for a five-week HED3505 learning environment.
+Current scope: controlled preparation for a real-student pilot after successful synthetic end-to-end validation.
 
-Not yet authorized: live student roster binding, official grading, official CLO/PLO mapping, official deadlines, or real student personal data.
+Not yet authorized: live student roster binding, official grading, official CLO/PLO mapping, official deadlines, or storage of real student personal data in public repositories.
 
-## Gate tracking
+## Phase 02 gate tracking
 - G1 Repository structure: PASS
 - G2 Week package completeness: PASS
 - G3 Assignment template consistency: PASS
@@ -22,10 +22,14 @@ Not yet authorized: live student roster binding, official grading, official CLO/
 - G9 Course-hub integration: PASS
 - G10 End-to-end dry run: PASS
 
-## Dry-run evidence
-Synthetic identity `student-demo-01` completed Assignment 01 through a dedicated branch and PR (#1), automated structural validation, synthetic instructor feedback, revision, and a portfolio evidence record. The PR was closed without merge to keep synthetic student work out of main.
+## Phase 03 preparation
+- Pilot preparation package: PREPARED
+- Roster binding template: PREPARED / NO REAL DATA
+- Privacy decision record: PREPARED
+- Pilot acceptance checklist: PREPARED
+- Live pilot activation: HOLD — HUMAN AUTHORITY REQUIRED
 
 ## Human-authority hold points
-Phase 02 passing does **not** authorize live-student use. Before live pilot activation, human authority must confirm official roster handling, assessment weights/scores, deadlines, CLO/PLO mapping where applicable, and privacy arrangements.
+Before live pilot activation, course authority must confirm the authoritative roster source and handling method, privacy arrangements, pilot size, official deadlines and assessment weights (or explicitly keep them outside GitHub), and CLO/PLO mapping where applicable from authoritative curriculum evidence.
 
-Next eligible phase: RU-HEPE-CLASSROOM-03 preparation.
+Next recommended action: RU-HEPE-CLASSROOM-03A — Human Authority Binding & Controlled Pilot Authorization.
