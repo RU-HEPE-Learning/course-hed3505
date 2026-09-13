@@ -2,14 +2,15 @@
 
 Status: **PILOT**
 
-Phase: **RU-HEPE-CLASSROOM-03A — HUMAN AUTHORITY BINDING & CONTROLLED PILOT AUTHORIZATION**
+Phase: **RU-HEPE-CLASSROOM-03B — AUTHORITATIVE ROSTER INTAKE & IDENTITY BINDING PREPARATION**
 
 Phase 02 verdict: **FULL PASS**
 Phase 03A verdict: **PASS WITH LIVE-ACTIVATION HOLD**
+Phase 03B verdict: **PREPARED / HOLD FOR AUTHORITATIVE ROSTER**
 
-Current scope: controlled preparation for a small real-student pilot after successful synthetic end-to-end validation.
+Current scope: controlled pre-live preparation for a small real-student pilot after successful synthetic end-to-end validation.
 
-## Locked Phase 03A configuration
+## Locked configuration
 - Pilot size: **SMALL PILOT (3–5 students)**
 - Student assignment repositories: **PRIVATE**
 - Student portfolio repositories: **PRIVATE**
@@ -18,13 +19,15 @@ Current scope: controlled preparation for a small real-student pilot after succe
 - Deadlines: **PENDING OFFICIAL SCHEDULE**
 - Roster source: **OFFICIAL COURSE ROSTER REQUIRED**
 
-## Authorization state
-- Pilot preparation package: PASS
-- Human authority configuration: CONFIRMED
-- Privacy model: LOCKED
-- Repository naming plan: PREPARED
+## Phase 03B preparation status
+- Authoritative roster intake control: PREPARED
+- Minimum-data binding model: PREPARED
+- Pilot access matrix template: PREPARED
+- Private repository provisioning plan: PREPARED
 - Student onboarding package: PREPARED
-- Real-student roster binding: HOLD
+- Privacy model: LOCKED
+- Real-student roster source: NOT YET PROVIDED / VERIFIED
+- GitHub usernames: NOT YET VERIFIED
 - Real-student repository creation: HOLD
 - Student invitations: HOLD
 - Live pilot activation: HOLD
@@ -41,7 +44,7 @@ Current scope: controlled preparation for a small real-student pilot after succe
 - G9 Course-hub integration: PASS
 - G10 End-to-end dry run: PASS
 
-## Human-authority hold point
-The next release gate requires confirmation of the authoritative real-student roster source and explicit authorization to bind real students. Until that gate passes, no real-student repositories may be created and no invitations may be sent.
+## Current release gate
+The next transition requires an authoritative or instructor-verified copy of the real HED3505 roster and verified GitHub usernames for 3–5 selected pilot participants. Until those items are available and explicitly released, no real-student repository may be created and no invitation may be sent.
 
-Next recommended action: **RU-HEPE-CLASSROOM-03B — Authoritative Roster Intake, Identity Binding & Controlled Real-Student Pilot Activation Preparation.**
+Next recommended action: **RU-HEPE-CLASSROOM-03B.1 — Authoritative Roster Evidence Intake & Pilot Identity Verification**.
