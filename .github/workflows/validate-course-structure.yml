@@ -1,0 +1,20 @@
+name: Validate HED3505 Structure
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required course structure
+        shell: bash
+        run: |
+          test -f README.md
+          test -f weeks/README.md
+          test -f assignments/README.md
+          test -f rubrics/README.md
+          test -f evidence/README.md
+          echo "HED3505 course structure is valid."
