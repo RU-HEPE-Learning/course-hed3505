@@ -1,3 +1,8 @@
-# Reflection
+# Reflection — Module 5
 
-Which recommendation is strongest, which is most uncertain, and how should the next monitoring cycle change the evidence base before another evaluation decision?
+Which part of your integrated evaluation plan remains weakest, and why?
+
+Identify:
+- one alignment problem that you corrected;
+- one uncertainty that still remains; and
+- one evidence improvement you would make in the next evaluation cycle.
