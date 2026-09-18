@@ -1,3 +1,5 @@
-# Reflection
+# Reflection — Module 2
 
-Which explanation for the CPR knowledge-performance gap seemed most plausible at first, and what evidence would be needed before you could defend that explanation?
+Which design choice in your instrument was hardest to justify?
+
+Explain one risk that could make the instrument produce misleading or weak evidence, and how you would reduce that risk.
