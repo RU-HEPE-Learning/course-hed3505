@@ -1,5 +1,7 @@
-# Assignment 04 — Equity Audit
+# Assignment 04 — Data → Interpretation → Decision
 
-Week 4 task: interpret subgroup and resource evidence responsibly and develop an equity-sensitive recommendation without unsupported causality.
+Module 4 task: move from approved data to a defensible interpretation and decision without overclaiming.
+
+Progressive artifact: **WS4 Interpretation & Decision Matrix**
 
 Official score/weight: PENDING COURSE AUTHORITY.
