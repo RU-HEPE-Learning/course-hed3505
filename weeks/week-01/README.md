@@ -1,7 +1,15 @@
-# Week 01 — Measurement, Assessment and Evaluation
+# Module 01 — จากปัญหาสู่สิ่งที่ต้องประเมิน
 
-Focus: distinguishing measurement, assessment, and evaluation; reading baseline evidence; Output vs Outcome.
+Path: **Problem → Indicator**
 
-Master case: โรงเรียนอรุณพัฒนา.
+Core question:
+How do we move from a perceived problem to something that can be evaluated with evidence?
 
-Data used are instructional/teaching-case data unless explicitly documented otherwise.
+Progressive artifact:
+**WS1 Assessment Planning**
+
+Master case:
+โรงเรียนอรุณพัฒนา
+
+Activity pattern:
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
