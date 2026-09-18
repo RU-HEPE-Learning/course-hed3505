@@ -1,3 +1,14 @@
-# Week 05 — Evidence Synthesis and Improvement Plan
+# Module 05 — การสร้างแผนประเมินผลแบบบูรณาการ
 
-Focus: synthesizing evidence, developing justified recommendations, designing an improvement plan, and planning monitoring for the next evaluation cycle.
+Path:
+
+**Integrated Evidence → Evaluation Plan**
+
+Core question:
+How can the evidence chain from WS1–WS4 be integrated into one coherent and defensible evaluation plan?
+
+Progressive artifact:
+**WS5 Integrated Evaluation Plan**
+
+Activity pattern:
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
