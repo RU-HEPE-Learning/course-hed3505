@@ -2,65 +2,53 @@
 
 Status: **PILOT**
 
-Phase: **HED3505-GITHUB-LEARNING-HUB-01 — CURRENT REPOSITORY RECONSTRUCTION & MIGRATION MAPPING**
+Phase: **HED3505-GITHUB-LEARNING-HUB-05 — INTEGRATION QA & PILOT READINESS GATE**
 
-Migration decision: **APPROVED**
+Gate result: **PASS WITH CONDITIONS**
 
-## Operating model
-
-GitHub Classroom is no longer a dependency of this course architecture.
-
-The approved course workflow is:
+## Canonical operating model
 
 **Teaching → Student Activity → Evidence Capture → Feedback → Portfolio**
 
-Primary components:
-- `RU-HEPE-Learning/course-hed3505` — canonical controlled course workspace
-- `RU-HEPE-Learning/assignment-template` — reusable assignment structure
-- `RU-HEPE-Learning/student-portfolio-template` — student evidence and reflection structure
-- `RU-HEPE-Learning/course-hub` — organization-level learning entry point
-- `kasemch/hed3505-interactive-lab` — interactive/static learning activity prototype where useful
+GitHub Classroom is not a dependency of the approved architecture.
 
-## Locked design principles
-- Static-first
-- Mobile-friendly
-- Low-cost
-- Maintainable
-- No mandatory backend
-- Evidence-First / No Fabrication
-- Human academic judgment remains authoritative
-- No sensitive student, health, grade, or identity data in public repositories
+## Integration status
 
-## Repository reconstruction decision
+- Course Hub navigation: READY / CI confirmation pending
+- HED3505 course workspace: PASS
+- Assignment template: READY / revised CI confirmation pending
+- Student portfolio template: READY / first portfolio CI confirmation pending
+- Interactive lab: contextual / optional integration only
+- `kasemch.github.io`: NO CHANGE
 
-### KEEP
-- course materials, weekly packages, assignments, evidence, rubrics, portfolio guidance
-- privacy and governance controls
-- reusable assignment and portfolio templates
-- structural validation through GitHub Actions where useful
+## Pilot boundary
 
-### ADAPT
-- any workflow, status label, documentation, or onboarding instruction that assumes GitHub Classroom
-- submission instructions so they work through repository / pull-request / portfolio workflows
-- pilot provisioning language so it is tool-independent
+- student work is private by default;
+- official scores and grades remain outside GitHub unless later explicitly authorized;
+- CLO/PLO mappings, deadlines, assessment weights and outcomes require authoritative evidence;
+- public repositories must not contain sensitive student, health, identity, grade or confidential school data;
+- automated validation is structural only;
+- final academic judgment remains human/instructor authority.
 
-### RETIRE
-- GitHub Classroom-specific phase names
-- Classroom roster/provisioning dependency
-- Classroom-specific activation gates
+## Current conditions before baseline merge
 
-### CREATE
-- Learning Hub navigation and student-facing start page
-- migration-safe assignment launch instructions
-- lightweight progress/evidence index
-- teacher review workflow that remains separate from official grading records
+1. Confirm successful revised CI for `assignment-template`.
+2. Confirm successful revised CI for `course-hub`.
+3. Confirm successful first CI for `student-portfolio-template`.
+4. Preserve all PRs as draft until CI closure.
+5. Merge in controlled dependency order only after the above conditions pass.
 
-## Current pilot boundary
-- Student work: private by default
-- Official grades: outside GitHub unless explicitly authorized later
-- CLO/PLO mappings: publish only from authoritative curriculum evidence
-- Deadlines: publish only from verified teaching schedule
-- Real student identities: never stored in public control records
+## Recommended merge order
+
+1. assignment-template
+2. student-portfolio-template
+3. course-hed3505
+4. course-hub
+
+## QA Record
+
+See `INTEGRATION-QA-05.md`.
 
 ## Next transition
-**HED3505-GITHUB-LEARNING-HUB-02 — Student Journey, Navigation & Submission Workflow Refactor**
+
+**HED3505-GITHUB-LEARNING-HUB-06 — CI Closure, Merge Readiness Confirmation & Controlled Baseline Promotion**
