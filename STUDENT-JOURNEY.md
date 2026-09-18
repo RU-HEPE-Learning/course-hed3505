@@ -4,53 +4,48 @@ This is the canonical student-facing path through the HED3505 GitHub Learning Hu
 
 ## The simple rule
 
-For every week, use the same five-step pattern:
+For every module:
 
-**Learn → Do → Save Evidence → Submit → Reflect & Review Feedback**
+**Learn → Interact → Decide → Save Evidence → Submit → Reflect & Review Feedback**
 
-## Before Week 01
+Inside each activity:
+
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
+
+## Before Module 01
 
 1. Open the HED3505 course workspace.
 2. Read `STUDENT-GUIDE.md`.
 3. Confirm the private repository or portfolio location designated by the instructor.
 4. Do not copy personal, health, grade, or confidential school information into a public repository.
 
-## Weekly journey
+## Module journey
 
-### Week 01
-**Learn:** Measurement, Assessment and Evaluation  
-**Do:** Assignment 01 — Evidence Classification  
-**Evidence:** follow the assignment's `EVIDENCE-REQUIREMENTS.md`  
-**Submit:** follow `SUBMISSION.md` in Assignment 01  
-**Reflect:** complete the required reflection
+### Module 01 — จากปัญหาสู่สิ่งที่ต้องประเมิน
+**Path:** Problem → Indicator  
+**Artifact:** WS1 Assessment Planning
 
-### Week 02
-**Learn:** School Health Data Interpretation and CPR Dataset  
-**Do:** Assignment 02 — CPR Evidence Interpretation  
-**Evidence:** follow the assignment's `EVIDENCE-REQUIREMENTS.md`  
-**Submit:** follow `SUBMISSION.md` in Assignment 02  
-**Reflect:** complete the required reflection
+### Module 02 — จากตัวชี้วัดสู่เครื่องมือ
+**Path:** Indicator → Instrument  
+**Artifact:** WS2 Instrument Blueprint
 
-### Week 03
-**Learn:** Logic Model and Evaluation Matrix  
-**Do:** Assignment 03 — Logic Model and Evaluation Matrix  
-**Evidence:** follow the assignment's `EVIDENCE-REQUIREMENTS.md`  
-**Submit:** follow `SUBMISSION.md` in Assignment 03  
-**Reflect:** complete the required reflection
+### Module 03 — คุณภาพของเครื่องมือ
+**Path:** Content Validity → IOC → Reliability → Revision Decision  
+**Artifact:** WS3 Instrument Quality Record
 
-### Week 04
-**Learn:** Equity Audit and Subgroup Interpretation  
-**Do:** Assignment 04 — Equity Audit  
-**Evidence:** follow the assignment's `EVIDENCE-REQUIREMENTS.md`  
-**Submit:** follow `SUBMISSION.md` in Assignment 04  
-**Reflect:** complete the required reflection
+### Module 04 — การวิเคราะห์และแปลผลข้อมูล
+**Path:** Data → Interpretation → Decision  
+**Artifact:** WS4 Interpretation & Decision Matrix
 
-### Week 05
-**Learn:** Evidence Synthesis and Improvement Plan  
-**Do:** Assignment 05 — Evidence Synthesis and Improvement Plan  
-**Evidence:** follow the assignment's `EVIDENCE-REQUIREMENTS.md`  
-**Submit:** follow `SUBMISSION.md` in Assignment 05  
-**Reflect:** complete the required reflection
+### Module 05 — การสร้างแผนประเมินผลแบบบูรณาการ
+**Path:** Integrated Evidence → Evaluation Plan  
+**Artifact:** WS5 Integrated Evaluation Plan
+
+## Progressive portfolio
+
+WS1 → WS2 → WS3 → WS4 → WS5
+
+Each module should reuse prior evidence rather than restart from zero.
 
 ## After submission
 
@@ -58,22 +53,14 @@ The instructor may return feedback through the designated repository or portfoli
 
 Students should:
 1. read the feedback;
-2. correct or improve the artifact when requested;
-3. preserve the final approved learning evidence;
-4. add the final evidence and reflection to the portfolio location designated for the course.
+2. revise the artifact when requested;
+3. preserve the final accepted learning evidence;
+4. add the final artifact and reflection to the portfolio.
 
-## What GitHub automation means
+## Automation boundary
 
-Automated checks may confirm that required files or sections exist. They do **not** determine academic grades.
+Automated checks may confirm required files or sections. They do **not** determine academic grades.
 
-## If the student uses only a smartphone
+## Smartphone baseline
 
-The required path should remain possible using the GitHub web interface:
-- open learning materials;
-- read Markdown files;
-- edit text files;
-- upload permitted evidence;
-- commit changes;
-- review feedback.
-
-No command-line use is required by this baseline.
+The workflow should remain usable through GitHub Web without a command line.
