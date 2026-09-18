@@ -1,5 +1,7 @@
-# Assignment 02 — CPR Evidence Interpretation
+# Assignment 02 — Indicator → Instrument
 
-Week 2 task: interpret CPR knowledge and performance evidence, identify measurement-quality concerns, and design a triangulation plan.
+Module 2 task: transform the indicator from WS1 into an instrument blueprint.
+
+Progressive artifact: **WS2 Instrument Blueprint**
 
 Official score/weight: PENDING COURSE AUTHORITY.
