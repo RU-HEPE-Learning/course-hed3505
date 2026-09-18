@@ -1,3 +1,7 @@
-# Reflection
+# Reflection — Module 3
 
-Which causal claim did you weaken or revise after reviewing your evaluation design, and why was contribution language more defensible?
+How did the validity and/or reliability evidence change your decision about an item?
+
+Explain why:
+- a passing IOC value does not prove total instrument quality; and
+- high reliability does not by itself prove that the instrument measures the intended construct.
