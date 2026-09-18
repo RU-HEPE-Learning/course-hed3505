@@ -1,3 +1,16 @@
-# Week 03 — Logic Model and Evaluation Matrix
+# Module 03 — คุณภาพของเครื่องมือประเมิน
 
-Focus: program logic, evaluation questions, indicators, evidence sources, and Attribution vs Contribution using the โรงเรียนอรุณพัฒนา teaching case.
+Path:
+
+**Content Validity → IOC → Reliability → Revision Decision**
+
+Core question:
+What evidence is needed before we can trust an instrument enough to use its data for interpretation?
+
+Progressive artifact:
+**WS3 Instrument Quality Record**
+
+This module builds directly from WS2.
+
+Activity pattern:
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
