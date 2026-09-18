@@ -1,7 +1,19 @@
-# Rubric — Assignment 05
+# Rubric — Assignment 05: Integrated Evaluation Plan
 
-Criteria: evidence synthesis; traceability of recommendations; handling of contradictory/missing evidence; feasibility; monitoring design and residual uncertainty.
+Criteria:
+1. Evaluation-question alignment
+2. Indicator–instrument alignment
+3. Evidence-quality integration
+4. Data/interpretation/decision traceability
+5. Explicit limitation and uncertainty
+6. Decision-rule justification
+7. Coherence across WS1–WS5
+8. Feasible next evidence/action step
+9. Portfolio traceability
 
-For each criterion use Strong evidence use / Developing / Insufficient evidence and record instructor feedback.
+Performance descriptors:
+- Strong evidence use
+- Developing
+- Insufficient evidence
 
 SCORE / WEIGHT: PENDING COURSE AUTHORITY.
