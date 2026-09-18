@@ -1,11 +1,13 @@
-# Worksheet
+# Worksheet — WS4 Interpretation & Decision Matrix
 
-Record:
-1. Subgroup evidence
-2. Resource/context evidence
-3. FACT
-4. INTERPRETATION
-5. Alternative explanation
-6. UNKNOWN
-7. Additional evidence
-8. Equity-sensitive recommendation that does not overclaim causality
+สำหรับหลักฐานที่เลือก ให้บันทึก:
+
+1. Data / Evidence
+2. Finding
+3. Interpretation
+4. Alternative explanation
+5. Contradictory or missing evidence
+6. Additional evidence needed
+7. Confidence level
+8. Decision / Recommendation that is justified
+9. Claim that should NOT be made
