@@ -2,56 +2,65 @@
 
 Status: **PILOT**
 
-Phase: **RU-HEPE-CLASSROOM-03C-RD — ROSTER-DEFERRED PRIVATE PILOT PROVISIONING PREPARATION**
+Phase: **HED3505-GITHUB-LEARNING-HUB-01 — CURRENT REPOSITORY RECONSTRUCTION & MIGRATION MAPPING**
 
-Phase 02 verdict: **FULL PASS**
-Phase 03A verdict: **PASS WITH LIVE-ACTIVATION HOLD**
-Phase 03B verdict: **PREPARED**
-Phase 03B.1 status: **SUPERSEDED FOR RU CONTEXT**
-Phase 03B.2R verdict: **APPROVED OPERATING MODEL**
-Phase 03C-RD status: **PREPARATION COMPLETE / WAITING FOR VERIFIED PILOT GITHUB IDENTITIES**
+Migration decision: **APPROVED**
 
-Current scope: controlled preparation for a small real-student pilot using a participation-first, identity-verified, roster-deferred model appropriate to Ramkhamhaeng University teaching operations.
+## Operating model
 
-## Institutional operating constraint
-The official student/examination roster is not available to the instructor until the final-examination period. Early official-roster availability is therefore not required for controlled pilot preparation. Official enrollment remains deferred until later authoritative reconciliation.
+GitHub Classroom is no longer a dependency of this course architecture.
 
-## Locked configuration
-- Initial pilot cohort: **3 students**
-- Expansion ceiling: **5 students**
-- Student assignment repositories: **PRIVATE**
-- Student portfolio repositories: **PRIVATE**
-- Official grades: **KEEP OUTSIDE GITHUB during the initial pilot**
-- CLO/PLO mapping: **PENDING AUTHORITATIVE EVIDENCE**
-- Deadlines: **PENDING OFFICIAL SCHEDULE**
-- Official enrollment at pilot start: **DEFERRED_ROSTER_VERIFICATION**
+The approved course workflow is:
 
-## Participant-level release rule
-A participant may become `READY_FOR_ACCESS` only when all are true:
-- Participation = `INSTRUCTOR_CONFIRMED`
-- Pilot participation = `VOLUNTARY`
-- GitHub Identity = `VERIFIED`
-- Privacy acknowledgement = `ACKNOWLEDGED`
-- Official Enrollment = `DEFERRED_ROSTER_VERIFICATION`
+**Teaching → Student Activity → Evidence Capture → Feedback → Portfolio**
 
-## Phase 03C-RD preparation status
-- Provisioning preparation control: COMPLETE
-- Initial anonymous pilot IDs `PILOT-01` to `PILOT-03`: ALLOCATED
-- Public-safe readiness matrix: PREPARED
-- Privacy & participation acknowledgement template: PREPARED
-- Sample submission acceptance gate: PREPARED
-- Private repository provisioning model: PREPARED
-- Real participant identities: NOT STORED IN PUBLIC REPOSITORY
-- Verified GitHub usernames: NOT YET PROVIDED
-- Real-student repository creation: HOLD
-- Student collaborator invitations: HOLD
-- Live pilot activation: HOLD
+Primary components:
+- `RU-HEPE-Learning/course-hed3505` — canonical controlled course workspace
+- `RU-HEPE-Learning/assignment-template` — reusable assignment structure
+- `RU-HEPE-Learning/student-portfolio-template` — student evidence and reflection structure
+- `RU-HEPE-Learning/course-hub` — organization-level learning entry point
+- `kasemch/hed3505-interactive-lab` — interactive/static learning activity prototype where useful
 
-## Privacy boundary
-Real names, student IDs, personal email/phone information, grades, health information, and private identity mappings must not be committed to this public repository. Public control records may contain only anonymous internal pilot IDs and workflow states.
+## Locked design principles
+- Static-first
+- Mobile-friendly
+- Low-cost
+- Maintainable
+- No mandatory backend
+- Evidence-First / No Fabrication
+- Human academic judgment remains authoritative
+- No sensitive student, health, grade, or identity data in public repositories
 
-## Current release gate
-The next transition requires 3 participant-level GitHub usernames that have been supplied directly by the participating students and verified by the instructor, together with voluntary participation and privacy acknowledgement. Official roster evidence is not required at this stage.
+## Repository reconstruction decision
 
-## Next recommended action
-**RU-HEPE-CLASSROOM-03C-RD.1 — Verified Pilot Identity Intake, Private Repository Provisioning Readiness & Controlled Invitation Release.**
+### KEEP
+- course materials, weekly packages, assignments, evidence, rubrics, portfolio guidance
+- privacy and governance controls
+- reusable assignment and portfolio templates
+- structural validation through GitHub Actions where useful
+
+### ADAPT
+- any workflow, status label, documentation, or onboarding instruction that assumes GitHub Classroom
+- submission instructions so they work through repository / pull-request / portfolio workflows
+- pilot provisioning language so it is tool-independent
+
+### RETIRE
+- GitHub Classroom-specific phase names
+- Classroom roster/provisioning dependency
+- Classroom-specific activation gates
+
+### CREATE
+- Learning Hub navigation and student-facing start page
+- migration-safe assignment launch instructions
+- lightweight progress/evidence index
+- teacher review workflow that remains separate from official grading records
+
+## Current pilot boundary
+- Student work: private by default
+- Official grades: outside GitHub unless explicitly authorized later
+- CLO/PLO mappings: publish only from authoritative curriculum evidence
+- Deadlines: publish only from verified teaching schedule
+- Real student identities: never stored in public control records
+
+## Next transition
+**HED3505-GITHUB-LEARNING-HUB-02 — Student Journey, Navigation & Submission Workflow Refactor**
