@@ -1,3 +1,7 @@
-# Task
+# Task — Assignment 03
 
-Select one priority issue from the teaching case. Build a logic model and an evaluation matrix with at least three questions, indicators, evidence sources, timing, and interpretation limits. Mark attribution vs contribution claims.
+ประเมินคุณภาพเครื่องมือจาก WS2 โดยใช้ลำดับ:
+
+**Content Validity → IOC → Reliability → Revision Decision**
+
+ทุกการตัดสินต้องมีหลักฐานรองรับ และต้องแยกให้ชัดว่าหลักฐานใดบอกเรื่อง “ความตรง” และหลักฐานใดบอกเรื่อง “ความสม่ำเสมอ”

@@ -1,3 +1,7 @@
-# Task
+# Task — Assignment 04
 
-Analyze male 72% vs female 56% and mannequin adequacy 46%. Separate FACT, INTERPRETATION, RECOMMENDATION, and UNKNOWN; identify alternative explanations and additional evidence needed.
+เลือกหลักฐานจากกรณีศึกษาอย่างน้อยหนึ่งชุด แล้วสร้างเส้นทาง:
+
+**Data → Finding → Interpretation → Alternative Explanation → Decision**
+
+ต้องแสดงการจัดการหลักฐานที่ขัดกันหรือไม่ครบ และระบุชัดว่าข้อสรุปใด “พูดได้” กับข้อใด “ยังพูดไม่ได้”

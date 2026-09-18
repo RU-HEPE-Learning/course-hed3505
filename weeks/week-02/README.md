@@ -1,3 +1,14 @@
-# Week 02 — School Health Data Interpretation and CPR Dataset
+# Module 02 — จากตัวชี้วัดสู่เครื่องมือประเมิน
 
-Focus: interpreting CPR-related data, measurement quality, and contradictory evidence in the โรงเรียนอรุณพัฒนา teaching case.
+Path: **Indicator → Instrument**
+
+Core question:
+What instrument or method can produce evidence that actually represents the selected indicator?
+
+Progressive artifact:
+**WS2 Instrument Blueprint**
+
+This module builds directly from WS1.
+
+Activity pattern:
+**Prompt → Tap → Reveal → Discuss → Decide → Save**

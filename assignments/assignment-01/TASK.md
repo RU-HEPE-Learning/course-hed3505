@@ -1,3 +1,12 @@
-# Task
+# Task — Assignment 01
 
-Select at least five teaching-case indicators. For each, classify what is measured, what can be assessed, what would require evaluative criteria, and whether it represents output or outcome evidence.
+เลือกประเด็นจากกรณีศึกษา “โรงเรียนอรุณพัฒนา” แล้วพัฒนาเส้นทาง:
+
+**Problem → Indicator → Evidence Need**
+
+ต้องแสดงให้เห็นว่า:
+- หลักฐานใดมีอยู่จริง
+- ข้อใดเป็นการตีความ
+- ข้อใดยังเป็นสมมติฐาน
+- ตัวชี้วัดที่เสนอเชื่อมกับประเด็นอย่างไร
+- ยังต้องใช้หลักฐานอะไรเพิ่มเติมก่อนการประเมิน

@@ -1,7 +1,18 @@
-# Rubric — Assignment 02
+# Rubric — Assignment 02: Indicator → Instrument
 
-Criteria: construct distinction; measurement-quality reasoning; competing explanations; triangulation design; handling of uncertainty.
+Criteria:
+1. Indicator–construct alignment
+2. Instrument/method fit
+3. Item or observation design quality
+4. Scoring/recording clarity
+5. Recognition of design risks, ambiguity, bias, or mismatch
+6. Reasoning and evidence traceability from WS1
 
-For each criterion use Strong evidence use / Developing / Insufficient evidence and record instructor feedback.
+Performance descriptors:
+- Strong evidence use
+- Developing
+- Insufficient evidence
+
+Record instructor feedback for each criterion.
 
 SCORE / WEIGHT: PENDING COURSE AUTHORITY.

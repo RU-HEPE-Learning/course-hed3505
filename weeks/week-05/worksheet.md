@@ -1,11 +1,15 @@
-# Worksheet
+# Worksheet — WS5 Integrated Evaluation Plan
 
-For each priority:
-1. Evidence signal
-2. Interpretation
-3. Contradictory/missing evidence
-4. Recommendation
-5. Action
-6. Monitoring indicator
-7. Evidence source for next cycle
-8. Residual uncertainty
+สร้างตาราง/แผนที่ประกอบด้วย:
+
+1. Evaluation Question
+2. Priority issue
+3. Indicator
+4. Data source
+5. Instrument / Method
+6. Evidence quality requirement
+7. Analysis / Interpretation approach
+8. Decision rule
+9. Limitation / uncertainty
+10. Recommended next action
+11. Portfolio evidence link

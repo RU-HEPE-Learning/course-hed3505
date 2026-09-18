@@ -1,3 +1,9 @@
-# Task
+# Task — Assignment 02
 
-Compare CPR knowledge pass (81%) and CPR performance pass (38%). Propose at least three competing explanations and a triangulation plan that could distinguish among them.
+นำตัวชี้วัดจาก WS1 มาพัฒนาเป็น **Instrument Blueprint**
+
+ต้องเชื่อมให้เห็น:
+
+**Indicator → Construct → Instrument → Item/Observation → Scoring → Evidence**
+
+พร้อมระบุอย่างน้อยหนึ่งความเสี่ยงที่อาจทำให้ข้อมูลจากเครื่องมือคลาดเคลื่อนหรือถูกตีความเกินหลักฐาน

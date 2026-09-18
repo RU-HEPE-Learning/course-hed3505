@@ -1,5 +1,7 @@
-# Assignment 01 — Evidence Classification
+# Assignment 01 — Problem → Indicator
 
-Week 1 task: distinguish measurement, assessment, evaluation, output, and outcome using the โรงเรียนอรุณพัฒนา teaching case.
+Module 1 task: transform an approved issue from the โรงเรียนอรุณพัฒนา teaching case into a defensible indicator and evidence need.
+
+Progressive artifact: **WS1 Assessment Planning**
 
 Official score/weight: PENDING COURSE AUTHORITY.

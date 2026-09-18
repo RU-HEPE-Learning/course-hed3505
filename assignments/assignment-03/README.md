@@ -1,5 +1,9 @@
-# Assignment 03 — Logic Model and Evaluation Matrix
+# Assignment 03 — Instrument Quality: Content Validity, IOC & Reliability
 
-Week 3 task: construct a logic model and evaluation matrix and use attribution/contribution language appropriately.
+Module 3 task: evaluate the quality of the instrument developed in WS2 using:
+
+**Content Validity → IOC → Reliability → Revision Decision**
+
+Progressive artifact: **WS3 Instrument Quality Record**
 
 Official score/weight: PENDING COURSE AUTHORITY.

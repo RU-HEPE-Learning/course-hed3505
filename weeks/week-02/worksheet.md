@@ -1,9 +1,12 @@
-# Worksheet
+# Worksheet — WS2 Instrument Blueprint
 
-1. Evidence item
-2. Construct measured
-3. Instrument/scoring concern
-4. Interpretation
-5. Competing explanation
-6. Additional evidence needed
-7. Confidence level
+สำหรับตัวชี้วัดที่เลือก ให้บันทึก:
+
+1. ตัวชี้วัด
+2. สิ่งที่ต้องการวัด
+3. ประเภทเครื่องมือ/วิธีเก็บข้อมูล
+4. ตัวอย่างข้อคำถามหรือรายการสังเกต
+5. วิธีให้คะแนน/บันทึกผล
+6. หลักฐานที่เครื่องมือนี้ควรให้ได้
+7. ความเสี่ยงด้านความชัดเจน/ความกำกวม/อคติ
+8. เหตุผลที่เลือกเครื่องมือนี้

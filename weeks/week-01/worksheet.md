@@ -1,9 +1,12 @@
-# Worksheet
+# Worksheet — WS1 Assessment Planning
 
-For each selected baseline indicator, record:
-1. Indicator/evidence
-2. Measurement statement
-3. Assessment interpretation
-4. Evaluation question
-5. Output or outcome classification
-6. What additional evidence is needed?
+สำหรับประเด็นที่เลือก ให้บันทึก:
+
+1. ปัญหา/ประเด็นที่ต้องการประเมิน
+2. หลักฐานที่มีอยู่
+3. สิ่งที่เป็น FACT
+4. สิ่งที่เป็น ASSUMPTION
+5. ตัวชี้วัดที่เสนอ
+6. เหตุผลที่ตัวชี้วัดนี้เหมาะสม
+7. หลักฐานเพิ่มเติมที่ต้องการ
+8. สิ่งที่ยังไม่ควรสรุปในตอนนี้

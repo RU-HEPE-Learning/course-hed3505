@@ -1,7 +1,14 @@
-# Worksheet
+# Worksheet — WS3 Instrument Quality Record
 
-## Logic Model
-Inputs → Activities → Outputs → Short-term outcomes → Longer-term outcomes
+สำหรับแต่ละข้อ/รายการ ให้บันทึก:
 
-## Evaluation Matrix
-For each question record: indicator, evidence source, method, timing, interpretation rule, limitation, and whether the claim is attribution or contribution.
+1. Objective / Indicator ที่ต้องการวัด
+2. Item / Observation
+3. Content-validity concern
+4. IOC evidence
+5. Reliability evidence (เมื่อเหมาะสม)
+6. Interpretation
+7. Decision: RETAIN / REVIEW / REVISE / REMOVE
+8. เหตุผล
+9. สิ่งที่ต้องปรับ
+10. หลักฐานที่ยังขาด
