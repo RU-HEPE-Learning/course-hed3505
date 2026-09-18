@@ -1,3 +1,9 @@
-# Task
+# Task — Assignment 05
 
-Synthesize evidence from Weeks 1–4. Produce a prioritized improvement plan where each recommendation traces to evidence, acknowledges uncertainty, and includes a monitoring indicator for the next cycle.
+บูรณาการผลงาน WS1–WS4 ให้เป็น **Integrated Evaluation Plan**
+
+ต้องมี traceability:
+
+**Evaluation Question → Indicator → Instrument → Evidence Quality → Data → Interpretation → Decision**
+
+และต้องระบุข้อจำกัด/ความไม่แน่นอนของแผนอย่างชัดเจน
