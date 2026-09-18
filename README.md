@@ -7,7 +7,7 @@ Course workspace for RU-HEPE Learning.
 For students:
 1. Read [STUDENT-GUIDE.md](STUDENT-GUIDE.md)
 2. Follow the [Student Journey](STUDENT-JOURNEY.md)
-3. Open the current week in [weeks/](weeks/)
+3. Open the current module in [weeks/](weeks/)
 4. Complete the matching assignment in [assignments/](assignments/)
 5. Save required evidence and reflection to the designated private repository/portfolio
 6. Review instructor feedback and update portfolio evidence where required
@@ -21,19 +21,27 @@ For instructors:
 
 **โรงเรียนอรุณพัฒนา (Arun Pattana School)** is the canonical master case for learning activities, worksheets, dashboards, and portfolio evidence in this course workspace.
 
-## Five-week learning path
+## Five-module learning path
 
-| Week | Learning focus | Assignment |
+| Module | Learning focus | Progressive artifact |
 |---|---|---|
-| 01 | Measurement, Assessment and Evaluation | Assignment 01 — Evidence Classification |
-| 02 | School Health Data Interpretation and CPR Dataset | Assignment 02 — CPR Evidence Interpretation |
-| 03 | Logic Model and Evaluation Matrix | Assignment 03 — Logic Model and Evaluation Matrix |
-| 04 | Equity Audit and Subgroup Interpretation | Assignment 04 — Equity Audit |
-| 05 | Evidence Synthesis and Improvement Plan | Assignment 05 — Evidence Synthesis and Improvement Plan |
+| 01 | Problem → Indicator | WS1 Assessment Planning |
+| 02 | Indicator → Instrument | WS2 Instrument Blueprint |
+| 03 | Content Validity → IOC → Reliability → Revision | WS3 Instrument Quality Record |
+| 04 | Data → Interpretation → Decision | WS4 Interpretation & Decision Matrix |
+| 05 | Integrated Evidence → Evaluation Plan | WS5 Integrated Evaluation Plan |
+
+## Activity design baseline
+
+Every module follows the same mobile-first interaction logic:
+
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
+
+This pattern is the approved design direction for the current HED3505 activity set.
 
 ## Course workspace
 
-- `weeks/` — weekly learning packages
+- `weeks/` — module learning packages
 - `assignments/` — assignment briefs and submission guidance
 - `rubrics/` — assessment criteria
 - `evidence/` — approved course evidence and datasets
@@ -47,7 +55,7 @@ GitHub Classroom is not required.
 
 ## Governance
 
-Evidence-First / No Fabrication. Do not infer or invent CLO/PLO mappings, outcomes, datasets, student performance, scores, weights, or deadlines. Verified curriculum/course evidence must be used before formal claims are published.
+Evidence-First / No Fabrication. Do not infer or invent CLO/PLO mappings, outcomes, datasets, student performance, scores, weights, deadlines, or case facts. Verified curriculum/course evidence must be used before formal claims are published.
 
 ## Privacy
 
